@@ -1,0 +1,19 @@
+{
+  "name": "warsztaty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel bubbleChart.html",
+    "build": "parcel build bubbleChart.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "chartjs-plugin-datalabels": "^2.2.0"
+  }
+}
